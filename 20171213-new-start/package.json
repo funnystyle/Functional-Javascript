@@ -1,0 +1,15 @@
+{
+  "name": "functional-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ibsheet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "funnystyle",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  }
+}
